@@ -39,5 +39,3 @@ Project Reference
 
                     -> "..\ProductsAPI\ProductsAPI.csproj"
 
-
-# You should be able to just clone the solution and run it, I usually use Visual Studio.
